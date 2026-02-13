@@ -1,0 +1,7 @@
+uce\edu\web\api\auth\inerfaces\AuthResource$TokenResponse.class
+uce\edu\web\api\auth\infraestructure\UsuarioRepository.class
+uce\edu\web\api\auth\GreetingResource.class
+uce\edu\web\api\auth\application\UsuarioService.class
+uce\edu\web\api\auth\domain\Usuario.class
+uce\edu\web\api\auth\representation\UsuarioRepresentation.class
+uce\edu\web\api\auth\inerfaces\AuthResource.class
